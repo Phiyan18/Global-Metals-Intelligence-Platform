@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Global Metals Intelligence Platform
+#  Global Metals Intelligence Platform
 
 ### Enterprise-Grade Trading Intelligence & Analytics for APAC Markets
 
@@ -15,30 +15,30 @@
 
 </div>
 
-## 🎯 Overview
+##  Overview
 
 **Global Metals Intelligence Platform** is an institutional-grade trading analytics system designed for metals sales teams, traders, and analysts covering APAC markets. Built with inspiration from top-tier investment banks (JPM, GS, MS), this platform delivers real-time market intelligence, automated trade ideas, and comprehensive risk analytics.
 
 ### Why This Platform?
 
 ```diff
-+ 🔥 Automated daily market commentary (like JPM sales desks)
-+ 📊 Professional Excel pricing models with dynamic formulas
-+ 🎯 Backtested trade strategies with performance metrics
-+ 🌏 APAC-focused (China, India, Japan) with FX impact analysis
-+ ⚡ Production-ready codebase with institutional standards
-+ 🎨 Modern React dashboard with real-time visualizations
++  Automated daily market commentary (like JPM sales desks)
++  Professional Excel pricing models with dynamic formulas
++  Backtested trade strategies with performance metrics
++  APAC-focused (China, India, Japan) with FX impact analysis
++  Production-ready codebase with institutional standards
++  Modern React dashboard with real-time visualizations
 ```
 
 ---
 
-## 🌟 Core Features
+##  Core Features
 
 <table>
 <tr>
 <td width="50%">
 
-### 📈 Market Intelligence
+###  Market Intelligence
 - **Real-time Price Tracking**: Copper, Aluminum, Zinc, Gold, Silver
 - **Market Commentary Engine**: Auto-generated daily reports
 - **Quantitative Metrics**: Returns, volatility, correlations
@@ -47,7 +47,7 @@
 </td>
 <td width="50%">
 
-### 💼 Trade Analytics
+###  Trade Analytics
 - **Trade Idea Generator**: Directional, spreads, options
 - **Excel Pricing Models**: Professional P&L calculators
 - **Backtesting Engine**: Historical performance analysis
@@ -58,7 +58,7 @@
 <tr>
 <td width="50%">
 
-### 🌏 APAC Focus
+###  APAC Focus
 - **FX Impact Analysis**: USD/CNH, USD/INR tracking
 - **Regional Insights**: China PMI, infrastructure themes
 - **Local Currency Returns**: FX-adjusted performance
@@ -67,7 +67,7 @@
 </td>
 <td width="50%">
 
-### 🔧 Trade Operations
+###  Trade Operations
 - **Lifecycle Management**: Booking → Execution → Settlement
 - **Trade Blotter**: Real-time position tracking
 - **Audit Trail**: Complete transaction history
@@ -79,7 +79,7 @@
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```mermaid
 graph TB
@@ -99,7 +99,7 @@ graph TB
 
 ---
 
-## 📦 Project Structure
+##  Project Structure
 
 ```bash
 metals-intelligence-platform/
@@ -191,14 +191,14 @@ open index.html  # Mac
 start index.html # Windows
 ```
 
-**🎉 You should now see:**
+** You should now see:**
 - ✅ `metals_master_data.csv` with price data
 - ✅ `daily_market_report.pdf` with commentary
 - ✅ Interactive dashboard in your browser
 
 ---
 
-## 💡 Usage Examples
+##  Usage Examples
 
 ### Example 1: Morning Workflow (Sales Team)
 
